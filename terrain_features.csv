@@ -1,0 +1,6 @@
+zone,lat,lon,mean_elevation,max_elevation,mean_slope,max_slope,std_slope,pct_slope_gt35,pct_slope_gt45,mean_curvature,relief,north_facing,rock_type,annual_rainfall
+Zone_A_Jharia_North,23.773,86.423,228.4,271.2,28.5,52.3,8.2,22.4,6.1,-0.003,87.2,14.7,sandstone_shale,1247.0
+Zone_B_Jharia_East,23.758,86.441,198.7,243.1,34.2,61.8,11.3,41.7,12.8,-0.005,94.5,11.6,coal_shale_interbed,1247.0
+Zone_C_Jharia_South,23.741,86.428,214.3,248.6,19.8,44.2,6.7,8.3,1.2,0.002,67.4,29.8,sandstone,1247.0
+Zone_D_Jharia_West,23.756,86.408,221.6,259.3,24.1,48.7,7.9,14.6,3.8,-0.001,72.8,24.0,shale_coal,1247.0
+Zone_E_Jharia_Center,23.762,86.425,208.9,251.4,31.7,57.9,10.1,33.2,9.4,-0.004,83.6,17.4,coal_sandstone,1247.0
